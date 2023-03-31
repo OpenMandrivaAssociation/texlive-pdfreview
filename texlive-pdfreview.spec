@@ -1,6 +1,6 @@
 Name:		texlive-pdfreview
 Version:	50100
-Release:	1
+Release:	2
 Summary:	Annotate PDF files with margin notes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pdfreview
