@@ -3,7 +3,7 @@ Version:	50100
 Release:	2
 Summary:	Annotate PDF files with margin notes
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pdfreview
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pdfreview
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pdfreview.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pdfreview.doc.r%{version}.tar.xz
